@@ -1,7 +1,5 @@
 # 90 Days DSA Practice
 
-# 30-Day DSA Practice Structure
-
 ## Day 1: Arrays
 - **Practice Tasks**:
   - 
