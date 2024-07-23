@@ -2,7 +2,10 @@
 
 ## Day 1: Arrays
 - **Practice Tasks**:
-  - 
+  - Pattern
+    7 Pattern Simple
+  - Arrays
+    Max, Min, Reversing, Sorting, Linear Search, Matrix to Zero
 
 ## Day 2: Linked Lists
 - **Practice Tasks**:
