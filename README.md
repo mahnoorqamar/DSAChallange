@@ -1,4 +1,4 @@
-# 90 Days DSA Practice
+# 90 Days DSA Practice Mahnoor
 
 ## Day 1: Arrays
 - **Practice Tasks**:
@@ -7,10 +7,12 @@
   - Arrays
     Max, Min, Reversing, Sorting, Linear Search, Matrix to Zero
 
-## Day 2: Linked Lists
+## Day 2: Numbers, Arrays
 - **Practice Tasks**:
-  - Reverse a singly linked list.
-  - Detect and remove a loop in a linked list (if present).
+  - Numbers
+    - Count Digits, Reverse Number, Check Palindrome, GCD or HCF, Armstrong Number, Print all Divisions, Check for Prime
+  - Arrays
+    - 
 
 ## Day 3: Stacks
 - **Practice Tasks**:
